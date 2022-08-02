@@ -1,0 +1,11 @@
+Öncelikle beni tercih ettiğiniz için teşekkür ederim..
+
+Kurulum için node.js'in bilgisayarınızda kurulu olması gerek
+
+İndirme adresi : https://nodejs.org/en/
+
+Node.js kurulduktan sonra üsttek klasörün içindeki setup.bat adlı dosyayı açın ve sabırla modüllerin indirilmesini bekleyin
+Kurulum tamamlandıktan sonra cmd kapanacak
+Ardından start.bat adlı dosyayı açın ve hazır
+
+Sorularınız için Sweandyx#0001 veya itemsatış: https://www.itemsatis.com/p/Sweandyx
